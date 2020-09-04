@@ -2,7 +2,7 @@
 layout: page
 title: Algorithmic Quilting Pattern Generation for Pieced-Quilts
 description: Individual research project at CMU, 2017-2019
-img: /assets/img/3.jpg
+img: /assets/projects/quilt/categorization.png
 importance: 2
 ---
 
