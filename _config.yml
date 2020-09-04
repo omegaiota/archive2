@@ -49,10 +49,8 @@ publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
-
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+contact_note:  liyifei at mit dot edu
+google_analytics: UA-131144885-1 # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -113,6 +111,7 @@ plugins:
   - jekyll-paginate-v2
   - jekyll/scholar
   - jemoji
+  - jekyll-seo-tag
   # - bootstrap
   # - material-sass
 
