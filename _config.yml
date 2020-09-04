@@ -67,7 +67,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: omegaiota # put your disqus shortname
+disqus_shortname: al-folio # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
