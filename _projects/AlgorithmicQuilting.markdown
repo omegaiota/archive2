@@ -6,7 +6,7 @@ img: /assets/projects/quilt/categorization.png
 importance: 2
 ---
 
-This is my undergraduate research project from May 2017 - March 2019. The project was presented at the poster session of **2018 ACM Symposium on Computational Fabrication** at MIT in in June 2018. The project was published at **Graphics Interface 2019** at Queens University in May 2019.
+This is my undergraduate research project from May 2017 - March 2019. The project was presented at the poster session of **2018 ACM Symposium on Computational Fabrication** at MIT in in June 2018. The project was published at **Graphics Interface 2019** at Queens University in May 2019. I was advised by [Prof. Jessica Hodgins](https://www.cs.cmu.edu/~jkh/), [Prof. Jim McCann](http://www.cs.cmu.edu/~jmccann/) and [Prof. David Breen](https://www.cs.drexel.edu/~david/) for this project.
 
 ## Abstract
 Free-motion quilting patterns are functional and decorative patterns
