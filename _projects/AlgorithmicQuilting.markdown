@@ -46,7 +46,7 @@ and quilted examples for each type of pattern.
 
 # Full Paper
 [Link to GI2019's website](http://graphicsinterface.org/proceedings/gi2019/gi2019-13/){: .btn}
-<object data="https://omegaiota.github.io/assets/pdf/gi2019-13.pdf" type="application/pdf" width="300px" height="300px">
+<object data="https://omegaiota.github.io/assets/pdf/gi2019-13.pdf" type="application/pdf" width="800px" height="300px">
   <embed src="https://omegaiota.github.io/assets/pdf/gi2019-13.pdf">
   <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://omegaiota.github.io/assets/pdf/gi2019-13.pdf">Download PDF</a>.</p>
   </embed>
