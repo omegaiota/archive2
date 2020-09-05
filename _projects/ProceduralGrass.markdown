@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Procedural Grass in Call of Duty
-description:  A procedural grass system that I implemented for Call of Duty Black Ops 4 [Internship, Summer 2018]
+description:  A procedural grass system that I implemented for Call of Duty Black Ops 4 in Summer 2018
 img: /assets/img/grass.png
 importance: 2
 ---
