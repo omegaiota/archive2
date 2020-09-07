@@ -8,5 +8,5 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'unicode_utils'
     gem 'jekyll-seo-tag'
-
+    gem 'jekyll-sitemap'
 end
