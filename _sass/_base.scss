@@ -39,10 +39,11 @@ a, table.table a {
   width: 100%;
 
   .address {
-    margin-bottom: 5px;
-    margin-top: 5px;
-    font-family: monospace;
-    font-size: 1.2rem;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    text-align: left;
+    font-family: Fira Sans;
+    font-size: 1.0rem;
     p {
       display: inline-block;
       margin: 0;
@@ -54,7 +55,9 @@ a, table.table a {
   .profile {
     width: 30%;
     .address {
-      p { display: block; }
+      p {
+        display: block;
+      }
     }
   }
 }
@@ -271,7 +274,7 @@ footer.sticky-bottom {
     width: 100%;
     font-size: 0.5rem;
   }
-  
+
 }
 
 

@@ -6,7 +6,7 @@ title: Yifei Li # the website title (if blank, full name will be used instead)
 first_name: Yifei
 middle_name:
 last_name: Li
-email: liyifei@mit.edu
+email: liyifei@csail.mit.edu
 description:  First-year EECS PhD student at MIT.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -40,14 +40,14 @@ github_username: omegaiota # your GitHub user name
 twitter_username: # your Twitter handle
 linkedin_username: yifei-li-0977b738 # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
+orcid_id: https://orcid.org/0000-0002-3770-0575 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 
-contact_note:  liyifei at mit dot edu
+contact_note:  liyifei at csail.mit.edu
 google_analytics: UA-131144885-1 # out your google-analytics code
 
 # -----------------------------------------------------------------------------
