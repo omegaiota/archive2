@@ -1,7 +1,9 @@
 source 'https://rubygems.org'
+ruby '~> 2.6.3'
+
 group :jekyll_plugins do
-    #gem 'github-pages'
-    gem 'jekyll', "~> 4.2.0"
+    gem 'github-pages'
+    gem 'jekyll'
     gem 'jekyll-email-protect'
     gem 'jekyll-paginate-v2'
     gem 'jekyll-scholar'
@@ -9,6 +11,4 @@ group :jekyll_plugins do
     gem 'unicode_utils'
     gem 'jekyll-seo-tag'
     gem 'jekyll-sitemap'
-    gem 'webrick'
-    gem 'kramdown-parser-gfm'
 end
